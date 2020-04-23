@@ -1,12 +1,3 @@
-# Ding2
-Ding2 is a continuation of [ding.TING](http://ting.dk/content/om-dingting)
-[Drupal](http://drupal.org/project/drupal) distribution for libraries as part
-of the [TING concept](http://ting.dk).
-
-[![Circle CI](https://img.shields.io/circleci/project/ding2/ding2.svg)](https://circleci.com/gh/ding2/ding2)
-[![Latest release](https://img.shields.io/github/release/ding2/ding2.svg)](https://github.com/ding2/ding2/releases/latest)
-
-
 # Installation
 This README assumes that you have install a configured your server with a
 working Apache/Nginx, APC, Memcached, PHP 5.6 or 7.0 and Varnish 3.x (optional). The
